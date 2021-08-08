@@ -1,4 +1,7 @@
 # A PyTorch Tools, best practices & Styleguide
+
+readme文档中文翻译：https://mp.weixin.qq.com/s/8vK-Ht5jLbHzajqNDbdPjA
+
 This is not an official style guide for PyTorch. This document summarizes best practices from more than a year of experience with deep learning using the PyTorch framework. Note that the learnings we share come mostly from a research and startup perspective.
 
 This is an open project and other collaborators are highly welcomed to edit and improve the document.
